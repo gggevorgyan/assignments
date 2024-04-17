@@ -1,0 +1,9 @@
+set V1 = 10.0
+get V1
+set V2 = V1 * V1
+get V2
+set V3 = V2 - 10.0
+set V4 = V1 + V3
+set V5 = V1 - V3
+get V4
+get V5

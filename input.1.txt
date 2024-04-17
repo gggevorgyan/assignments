@@ -1,0 +1,6 @@
+set V1 = 1
+set V2 = V1 + V3
+set V3 = 2
+get V1
+get V2
+get V3

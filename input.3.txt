@@ -1,0 +1,5 @@
+set V1 = 1
+set V2 = V1 + V1
+get V2
+set V2 = V1 + V2
+get V2
